@@ -63,22 +63,8 @@ The analysis yields detailed maps highlighting varying levels of burn severity w
 
 ## References
 
-For further reading on wildfire burnt area mapping, especially focusing on U-Net architectures and contrastive learning methods, consider the following recent studies:
-
-- **Two Scalable Approaches for Burned-Area Mapping Using U-Net and Landsat Imagery**: This study explores two U-Net-based approaches for automating and optimizing the burned-area mapping process using Landsat imagery. citeturn0search1
-
-- **Burned-Area Mapping Using Post-Fire PlanetScope Images and a Convolutional Neural Network**: This research utilizes a U-Net model to produce burned-area maps from single post-fire PlanetScope images, demonstrating high accuracy in mapping efforts. citeturn0search6
-
-- **Unsupervised Wildfire Change Detection Based on Contrastive Learning**: This study proposes an unsupervised model employing contrastive learning techniques to detect burned area changes, enhancing feature extraction in wildfire scenarios. citeturn0search2
-
-- **Total-Variation Regularized U-Net for Wildfire Burned Area Mapping Using Sentinel-1 SAR Data**: This research introduces a novel approach using a Total-Variation regularized U-Net model to enhance the accuracy and connectivity of SAR-based burned area delineation. citeturn0search11
-
-- **Unsupervised Bushfire Burn Severity Mapping Using Aerial and Satellite Imagery**: This study employs contrastive learning frameworks for feature extraction in bushfire severity mapping, utilizing both aerial and satellite imagery. citeturn0search14
+For further reading on wildfire burnt area mapping.
 
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-*Note: This README format is inspired by the structure used in the [plant-disease-classification](https://github.com/praveenpankaj/plant-disease-classification) repository.* 
